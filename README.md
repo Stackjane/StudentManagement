@@ -1,3 +1,3 @@
 # StudentManagement
-利用JDBC以及Druid数据库连接池技术连接并操作数据库\n
+利用JDBC以及Druid数据库连接池技术连接并操作数据库;
 实现对学生信息的增删改查
